@@ -1,6 +1,11 @@
 # Trend-analysis
 뉴스와 소셜 데이터 기반 이슈 분석 및 시각화
 
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/50198431/203695352-d0fd3618-8d63-45a6-98da-0b5bda6a39f9.png">
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/50198431/203695380-f2ed2ba0-c430-4c03-9d52-ff352e926fbc.png">
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/50198431/203695404-bf2171ff-5b6d-4214-9d2a-a139de95830f.png">
+
+
 <hr>
 
 ## 개요
@@ -114,7 +119,7 @@
    * 결과물 : result 폴더의 sentimental_binary_*.xlsx 참고
 
 ## requirements
-   * conda 환경 아래 base 변수에 필요한 패키지 설치해두었습니다.
+   * ~~conda 환경 아래 base 변수에 필요한 패키지 설치해두었습니다.~~
 
 ## demo video
 
