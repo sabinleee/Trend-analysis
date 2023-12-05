@@ -82,10 +82,10 @@
 ## model
 1. description
    * attention 기반 transformer text generation model
-   * KoGPT-2를 이용한 문장 독해 및 생성 모델
+   * 문장 독해 및 생성 모델
 2. issue classification
    * Fine tuning in terms of specific task on Pre-training of Deep Bidirectional Transformers 
-   * KoBERT 모델을 이용한 이슈 분류 모델
+   * KoBERT 기반 이슈 분류 모델
 3. keyword extraction
    * Attention 기반 Transformer sentence embedding model
    * n-gram 및 max-sum-similarity를 이용한 키워드 추출 모델
